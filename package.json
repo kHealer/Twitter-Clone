@@ -19,7 +19,9 @@
     "vue-router": "^4.0.0"
   },
   "devDependencies": {
-    "@quasar/app-webpack": "^3.0.0"
+    "@quasar/app-webpack": "^3.0.0",
+    "electron": "^22.0.2",
+    "electron-packager": "^15.5.2"
   },
   "browserslist": [
     "last 10 Chrome versions",
