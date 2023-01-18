@@ -1,3 +1,5 @@
+Note: Firebase free plan will be ended around 18.02.2023 also there will be daily limit to usage.
+
 Windows version:
 ![windows-version-ctwitter app](https://user-images.githubusercontent.com/95585412/213093307-72963eb7-7ad8-402e-999d-3b5393af0edf.png)
 
